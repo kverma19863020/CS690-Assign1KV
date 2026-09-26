@@ -1,0 +1,21 @@
+{
+  "actual_dataset_sha256": "5d84176547cb679f4145676d1f4dfd5061bf3b9600904911da8e5700e82eee3b",
+  "candidate_network_blocked": true,
+  "dataset_id": "CS690-Eval20",
+  "expected_dataset_sha256": "5d84176547cb679f4145676d1f4dfd5061bf3b9600904911da8e5700e82eee3b",
+  "generated_code_executed_in_sandbox": true,
+  "mock_model_metadata": {
+    "date": "2026-09-26",
+    "effort": null,
+    "provider": "verification-mock",
+    "requested_model": "verification-model",
+    "returned_model": "verification-model-v1",
+    "seed": 690,
+    "temperature": 0.0,
+    "top_p": null
+  },
+  "sandbox_network_mode": "none",
+  "task_count": 20,
+  "verification_schema": "cs690-a1-verification-v1",
+  "verified_at_utc": "2026-09-26T17:54:42.715017+00:00"
+}
