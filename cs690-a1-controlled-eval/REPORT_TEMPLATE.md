@@ -63,7 +63,7 @@ The evidence is the committed `results/experiment/` and `prompts/` folders.
 
 | Condition | Requested model | Returned model version | Attempts per task | Total attempts | pass@1 | 95 percent CI for pass@1 | pass@2 | Input tokens | Output tokens | Dollars spent |
 | --- | --- | --- | ---: | ---: | ---: | --- | ---: | ---: | ---: | --- |
-| A | gpt-5.6-luna | gpt-5.6-luna | 3 | 60 | 0.95 | [0.8667, 1.0000] | 0.9833 | 7146 | 3756 | $0.03 |
+| A | gpt-5.6-luna | gpt-5.6-luna | 3 | 60 | 0.95 | [0.8667, 1.0000] | 0.9833 | 7146 | 3756 | $0.05 |
 | B | gpt-5.6-terra | gpt-5.6-terra | 3 | 60 | 1.00 | [1.0000, 1.0000] | 1.0000 | 7146 | 4162 | included in A |
 
 ### Memo
