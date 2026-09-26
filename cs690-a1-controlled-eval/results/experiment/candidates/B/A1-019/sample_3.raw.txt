@@ -1,0 +1,2 @@
+def stable_partition(items, pivot):
+    return [x for x in items if x < pivot] + [x for x in items if x >= pivot]

@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write first_unique_index(text). Return the zero-based index of the first character whose total frequency in text is exactly one. Return -1 if there is no such character. Character comparison is case-sensitive.

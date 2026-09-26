@@ -1,0 +1,8 @@
+from collections import Counter
+
+def first_unique_index(text):
+    counts = Counter(text)
+    for index, char in enumerate(text):
+        if counts[char] == 1:
+            return index
+    return -1

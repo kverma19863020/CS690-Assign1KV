@@ -1,0 +1,27 @@
+{
+  "candidate_count": 60,
+  "ci95_pass_at_1": [
+    1.0,
+    1.0
+  ],
+  "condition_id": "B",
+  "cost_usd": null,
+  "dataset": {
+    "id": "CS690-Eval20",
+    "sha256": "5d84176547cb679f4145676d1f4dfd5061bf3b9600904911da8e5700e82eee3b",
+    "task_count": 20,
+    "version": "fall2026-v1"
+  },
+  "experiment_id": "a1-controlled-eval-fall2026",
+  "input_tokens": 7146,
+  "output_tokens": 4162,
+  "pass_at_1": 1.0,
+  "pass_at_2": 1.0,
+  "provider": "openai",
+  "requested_model": "gpt-5.6-terra",
+  "returned_models": [
+    "gpt-5.6-terra"
+  ],
+  "samples_per_task": 3,
+  "schema_version": "cs690-a1-summary-v1"
+}

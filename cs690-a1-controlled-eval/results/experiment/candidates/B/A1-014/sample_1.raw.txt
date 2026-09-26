@@ -1,0 +1,18 @@
+def rle_encode(text):
+    if not text:
+        return []
+
+    result = []
+    current = text[0]
+    count = 1
+
+    for character in text[1:]:
+        if character == current:
+            count += 1
+        else:
+            result.append([current, count])
+            current = character
+            count = 1
+
+    result.append([current, count])
+    return result

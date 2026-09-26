@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write parse_bool(text). Strip surrounding whitespace and compare case-insensitively. Return True for true, 1, yes, on. Return False for false, 0, no, off. Raise ValueError for every other value.

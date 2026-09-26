@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write window_sums(values, width). width is an integer. For width > 0, return sums of every contiguous window of exactly width elements. Return [] when width exceeds len(values). Raise ValueError when width <= 0.

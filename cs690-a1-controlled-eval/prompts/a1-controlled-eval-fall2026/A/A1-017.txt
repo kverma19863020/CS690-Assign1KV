@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write is_palindrome_normalized(text). Input is ASCII text. Ignore all characters that are not ASCII letters or digits, compare letters case-insensitively, and return whether the remaining sequence is a palindrome. An empty remaining sequence counts as a palindrome.

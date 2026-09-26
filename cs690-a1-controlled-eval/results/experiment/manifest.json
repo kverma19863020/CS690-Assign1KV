@@ -1,0 +1,8 @@
+{
+  "config_path": "conditions.json",
+  "config_sha256": "80a005fd61c75d723632f7b66f4c7c19957bfec1d02fa9d429497ff06c88a50c",
+  "dataset_id": "CS690-Eval20",
+  "dataset_sha256": "5d84176547cb679f4145676d1f4dfd5061bf3b9600904911da8e5700e82eee3b",
+  "dataset_version": "fall2026-v1",
+  "experiment_id": "a1-controlled-eval-fall2026"
+}

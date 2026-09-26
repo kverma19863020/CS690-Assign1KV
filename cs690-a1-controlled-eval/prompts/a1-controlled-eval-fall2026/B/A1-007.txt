@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write longest_run(items). Return the length of the longest consecutive run of equal values. Return 0 for an empty list.

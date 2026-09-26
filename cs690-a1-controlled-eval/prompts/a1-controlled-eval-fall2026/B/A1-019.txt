@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write stable_partition(items, pivot). items is a list of numbers. Return a new list with every value strictly less than pivot first, followed by every value greater than or equal to pivot. Preserve the original relative order within both groups. Do not modify items.

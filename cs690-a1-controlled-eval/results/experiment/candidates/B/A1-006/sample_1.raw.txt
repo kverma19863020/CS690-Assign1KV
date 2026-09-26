@@ -1,0 +1,6 @@
+def rotate_left(items, k):
+    if not items:
+        return []
+    n = len(items)
+    k %= n
+    return list(items[k:]) + list(items[:k])

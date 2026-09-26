@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write dedupe_preserve_order(items). items is a list of hashable values. Return a new list containing only the first occurrence of each value, preserving first-appearance order. Do not modify items.

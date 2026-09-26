@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write rotate_left(items, k). Return a new list rotated left by k positions. k may be negative or larger than the list length and must wrap modulo the list length. Return [] for an empty input. Do not modify items.

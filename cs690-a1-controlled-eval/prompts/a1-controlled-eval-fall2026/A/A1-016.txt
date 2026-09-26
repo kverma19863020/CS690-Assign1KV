@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write flatten_one_level(items). items is a list whose elements are lists. Concatenate those element lists into one new list, flattening exactly one level. Preserve any values nested deeper than one level unchanged. Do not modify items.

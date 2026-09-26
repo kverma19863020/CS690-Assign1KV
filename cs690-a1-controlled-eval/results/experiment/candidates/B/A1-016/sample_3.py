@@ -1,0 +1,2 @@
+def flatten_one_level(items):
+    return [value for sublist in items for value in sublist]

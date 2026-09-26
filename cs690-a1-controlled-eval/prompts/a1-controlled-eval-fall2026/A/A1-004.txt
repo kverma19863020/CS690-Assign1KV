@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write chunked(items, size). size is an integer. For size > 0, return consecutive sublists of at most size items, with a shorter final sublist allowed. Return [] for an empty input. Raise ValueError when size <= 0. Do not modify items.

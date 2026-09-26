@@ -1,0 +1,8 @@
+def first_unique_index(text):
+    from collections import Counter
+
+    frequencies = Counter(text)
+    for index, character in enumerate(text):
+        if frequencies[character] == 1:
+            return index
+    return -1

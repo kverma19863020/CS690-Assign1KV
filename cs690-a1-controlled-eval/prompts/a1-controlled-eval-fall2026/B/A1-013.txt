@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write top_k_frequent(items, k). items contains hashable values and k is a nonnegative integer. Return at most k distinct values ordered by descending frequency; break frequency ties by first appearance in items. If k exceeds the number of distinct values, return all distinct values. Return [] when k is 0.

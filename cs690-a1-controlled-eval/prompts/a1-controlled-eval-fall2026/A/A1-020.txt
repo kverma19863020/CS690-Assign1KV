@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write summarize_ranges(nums). nums is a sorted list of strictly increasing integers. Convert each maximal consecutive run to a string. A run of one number is 'n'; a longer run is 'start-end'. Return the strings in input order. Return [] for an empty list.

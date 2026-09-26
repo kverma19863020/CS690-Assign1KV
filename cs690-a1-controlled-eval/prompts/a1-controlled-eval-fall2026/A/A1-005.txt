@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write merge_intervals(intervals). intervals is a list of two-element lists [start, end] with integer start <= end. Treat intervals as closed, so [1, 3] and [3, 5] overlap. Return a new list of merged non-overlapping intervals sorted by start. Do not modify intervals.

@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write transpose_rectangular(matrix). matrix is a list of row lists. Return the matrix transpose as a list of lists. Return [] for [] and for a matrix whose rows are all empty. Raise ValueError if row lengths differ. Do not modify matrix.

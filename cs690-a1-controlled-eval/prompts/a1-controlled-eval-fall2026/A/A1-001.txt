@@ -1,0 +1,8 @@
+You are being evaluated on a frozen Python programming task.
+Implement exactly the requested function using only the Python standard library.
+Do not read files, access the network, or perform input/output.
+Return only the complete Python function definition and any standard-library imports it requires.
+Do not return tests, Markdown fences, or explanations.
+
+Task:
+Write clamp_int(x, lower, upper). Inputs are integers and lower <= upper. Return lower when x is below lower, upper when x is above upper, otherwise return x.
